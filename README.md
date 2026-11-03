@@ -37,11 +37,15 @@ Busco uma oportunidade de **Estágio em Desenvolvimento Back-end com Java**, ond
 
 ---
 
-### 📌 Projeto em destaque
+### 📌 Projetos em destaque
 
 **[Sistema de Gerenciamento de Produtos](https://github.com/dSantiniP/ecommerce)**
 Aplicação Java desenvolvida durante meus estudos de POO, com operações de cadastro, listagem, atualização e exclusão de produtos, utilizando uma estrutura com Controller, Service e Repository.
 `Java` `POO` `CRUD` `ArrayList` `Git` `GitHub`
+
+Sistema Gerenciador Acadêmico
+Aplicação Java desenvolvida no módulo de Banco de Dados, com cadastro, listagem e exclusão de alunos, professores, disciplinas e matrículas, utilizando uma estrutura com Menu, Service e DAO e persistência em PostgreSQL via JDBC.
+Java JDBC PostgreSQL SQL POO CRUD Maven Git GitHub
 
 ---
 
