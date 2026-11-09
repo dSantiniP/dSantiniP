@@ -10,13 +10,17 @@
 
 ### 🚀 Sobre mim
 
-Estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor Java em formação, direcionando minha carreira para o **desenvolvimento Back-end**. Concluí o primeiro módulo de Java e atualmente estudo **Spring Boot**, aprofundando meus conhecimentos em Programação Orientada a Objetos, SQL, Git e fundamentos do desenvolvimento de software.
+Estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Java Back-end em formação, com foco no desenvolvimento de aplicações e soluções de software.
 
-Busco uma oportunidade de **Estágio em Desenvolvimento Back-end com Java**, onde eu possa unir minha maturidade profissional ao crescimento técnico, aprender com profissionais experientes e evoluir construindo soluções bem estruturadas.
+Concluí os módulos I e II na Fuctura Tecnologia, desenvolvendo conhecimentos em Java, Programação Orientada a Objetos, SQL, PostgreSQL e integração com bancos de dados, aplicados em projetos práticos.
+
+Atualmente, estou aprofundando meus conhecimentos em Spring Boot, com foco na construção de aplicações back-end, organização de código e aplicação de boas práticas de desenvolvimento. Também utilizo Git e GitHub para versionamento e gerenciamento dos meus projetos.
+
+Busco uma oportunidade de estágio em desenvolvimento Back-end, na qual possa aplicar meus conhecimentos, contribuir com a equipe e continuar evoluindo como desenvolvedor.
 
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas — UniBF
 - 💻 Cursando Dev Java Full Stack — Fuctura Tecnologia
-- 🌍 Português (Nativo) · Inglês (Avançado)
+- 🌍 Português (Nativo) · Inglês (Intermediário)
 - 📍 Recife, Pernambuco — Brasil
 
 ---
@@ -39,7 +43,8 @@ Busco uma oportunidade de **Estágio em Desenvolvimento Back-end com Java**, ond
 
 ### 📌 Projetos em destaque
 
-[Sistema Gerenciador Acadêmico](https://github.com/dSantiniP/sistemaGerenciadorAcademico) Aplicação Java desenvolvida no módulo de Banco de Dados, com cadastro, listagem e exclusão de alunos, professores, disciplinas e matrículas, utilizando uma estrutura com Menu, Service e DAO e persistência em PostgreSQL via JDBC. `Java` `JDBC` `PostgreSQL` `SQL` `POO` `CRUD` `Maven` `Git` `GitHub`
+**Sistema Gerenciador Acadêmico](https://github.com/dSantiniP/sistemaGerenciadorAcademico)** 
+Aplicação Java desenvolvida no módulo de Banco de Dados, com cadastro, listagem e exclusão de alunos, professores, disciplinas e matrículas, utilizando uma estrutura com Menu, Service e DAO e persistência em PostgreSQL via JDBC. `Java` `JDBC` `PostgreSQL` `SQL` `POO` `CRUD` `Maven` `Git` `GitHub`
 
 **[Sistema de Gerenciamento de Produtos](https://github.com/dSantiniP/ecommerce)**
 Aplicação Java desenvolvida durante meus estudos de POO, com operações de cadastro, listagem, atualização e exclusão de produtos, utilizando uma estrutura com Controller, Service e Repository.
