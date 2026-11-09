@@ -29,25 +29,34 @@ Busco uma oportunidade de estágio em desenvolvimento Back-end, na qual possa ap
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" />
 </p>
 
 **Fundamentos:** Programação Orientada a Objetos (POO) · Lógica de Programação · SQL
+
+Em estudo
+ <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+Aprofundamento em desenvolvimento Back-end
+
 
 ---
 
 ### 📌 Projetos em destaque
 
-**Sistema Gerenciador Acadêmico](https://github.com/dSantiniP/sistemaGerenciadorAcademico)** 
-Aplicação Java desenvolvida no módulo de Banco de Dados, com cadastro, listagem e exclusão de alunos, professores, disciplinas e matrículas, utilizando uma estrutura com Menu, Service e DAO e persistência em PostgreSQL via JDBC. `Java` `JDBC` `PostgreSQL` `SQL` `POO` `CRUD` `Maven` `Git` `GitHub`
+**[Sistema Gerenciador Acadêmico](https://github.com/dSantiniP/sistemaGerenciadorAcademico)**
+
+Aplicação Java desenvolvida durante o módulo de Banco de Dados, com funcionalidades de cadastro, listagem e exclusão de alunos, professores, disciplinas e matrículas. Utiliza arquitetura em camadas com Menu, Service e DAO, integração com PostgreSQL via JDBC e operações de persistência de dados.
+
+`Java` `JDBC` `PostgreSQL` `SQL` `POO` `CRUD` `Maven` `Git` `GitHub`
 
 **[Sistema de Gerenciamento de Produtos](https://github.com/dSantiniP/ecommerce)**
-Aplicação Java desenvolvida durante meus estudos de POO, com operações de cadastro, listagem, atualização e exclusão de produtos, utilizando uma estrutura com Controller, Service e Repository.
+
+Aplicação Java desenvolvida durante os estudos de Programação Orientada a Objetos (POO), com funcionalidades de cadastro, listagem, atualização e exclusão de produtos. Utiliza organização em camadas com Controller, Service e Repository, aplicando conceitos de orientação a objetos e manipulação de coleções.
+
 `Java` `POO` `CRUD` `ArrayList` `Git` `GitHub`
 
 
