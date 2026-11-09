@@ -25,9 +25,11 @@ Busco uma oportunidade de estágio em desenvolvimento Back-end, na qual possa ap
 
 ---
 
-### 🛠️ Stack & Ferramentas
+<h2>🛠️ Stack & Ferramentas</h2>
 
-<p align="left">
+<p><strong>Conhecimentos aplicados em projetos:</strong></p>
+
+<p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -36,11 +38,20 @@ Busco uma oportunidade de estágio em desenvolvimento Back-end, na qual possa ap
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-**Fundamentos:** Programação Orientada a Objetos (POO) · Lógica de Programação · SQL
+<p>
+  <strong>Fundamentos:</strong>
+  POO · Lógica de Programação · CRUD · Arquitetura em Camadas
+</p>
 
-Em estudo
- <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-Aprofundamento em desenvolvimento Back-end
+<hr>
+
+<p><strong>Em estudo:</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <br>
+  Aprofundamento em desenvolvimento Back-end.
+</p>
 
 
 ---
